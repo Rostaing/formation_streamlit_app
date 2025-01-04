@@ -125,6 +125,6 @@ st.success("Success message")
 #     st.success("Done")
 
 # Show and update progress bar
-bar = st.progress(50)
-time.sleep(10)
-bar.progress(100)
+# bar = st.progress(50)
+# time.sleep(10)
+# bar.progress(100)
