@@ -68,10 +68,10 @@ st.json({"foo":"bar","fu":"ba"})
 st.metric("My metric", 42, 2)
 
 # Affichage multimédia
-st.image("data/images/img4.webp")
-st.audio("data/audio/RostaingAI_Song.mp3")
-st.video("data/vidéo/data.mp4")
-st.logo("data/logo/logo.jpg")
+# st.image("data/images/img4.webp")
+# st.audio("data/audio/RostaingAI_Song.mp3")
+# st.video("data/vidéo/data.mp4")
+# st.logo("data/logo/logo.jpg")
 
 # Afficher les graphiques
 st.area_chart(df)
